@@ -1,3 +1,3 @@
 # Stock Sentiment Analysis with News Headlines
 
-Data Manipulation project with <strong>Python</strong> and <strong>pandas</strong> to scrape news headlines for Facebook and Tesla, then apply sentiment analysis to produce investment insight.
+Data Manipulation project with <strong>Python</strong> to scrape Facebook and Tesla news headlines, in conjunction with sentiment analysis to generate investment insight.
